@@ -1,0 +1,4 @@
+See file:///C:/HelloGL2/app/build/tmp/linkGl2jniArmeabi-v7aDebugSharedLibrary/output.txt for all output for linkGl2jniArmeabi-v7aDebugSharedLibrary.
+linking libgl2jni.so successful.
+
+Finished linkGl2jniArmeabi-v7aDebugSharedLibrary, see full log file:///C:/HelloGL2/app/build/tmp/linkGl2jniArmeabi-v7aDebugSharedLibrary/output.txt.

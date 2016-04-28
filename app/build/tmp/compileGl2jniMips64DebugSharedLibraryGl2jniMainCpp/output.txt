@@ -1,0 +1,5 @@
+See file:///C:/HelloGL2/app/build/tmp/compileGl2jniMips64DebugSharedLibraryGl2jniMainCpp/output.txt for all output for compileGl2jniMips64DebugSharedLibraryGl2jniMainCpp.
+compiling gl_code.cpp successful.
+clang++.exe: warning: optimization flag '-finline-functions' is not supported
+
+Finished compileGl2jniMips64DebugSharedLibraryGl2jniMainCpp, see full log file:///C:/HelloGL2/app/build/tmp/compileGl2jniMips64DebugSharedLibraryGl2jniMainCpp/output.txt.

@@ -1,0 +1,4 @@
+See file:///C:/HelloGL2/app/build/tmp/compileGl2jniArm64-v8aDebugSharedLibraryGl2jniMainCpp/output.txt for all output for compileGl2jniArm64-v8aDebugSharedLibraryGl2jniMainCpp.
+compiling gl_code.cpp successful.
+
+Finished compileGl2jniArm64-v8aDebugSharedLibraryGl2jniMainCpp, see full log file:///C:/HelloGL2/app/build/tmp/compileGl2jniArm64-v8aDebugSharedLibraryGl2jniMainCpp/output.txt.

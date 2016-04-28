@@ -1,0 +1,4 @@
+See file:///C:/HelloGL2/app/build/tmp/linkGl2jniMips64DebugSharedLibrary/output.txt for all output for linkGl2jniMips64DebugSharedLibrary.
+linking libgl2jni.so successful.
+
+Finished linkGl2jniMips64DebugSharedLibrary, see full log file:///C:/HelloGL2/app/build/tmp/linkGl2jniMips64DebugSharedLibrary/output.txt.

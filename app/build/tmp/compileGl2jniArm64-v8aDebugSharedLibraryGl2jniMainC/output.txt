@@ -1,0 +1,19 @@
+See file:///C:/HelloGL2/app/build/tmp/compileGl2jniArm64-v8aDebugSharedLibraryGl2jniMainC/output.txt for all output for compileGl2jniArm64-v8aDebugSharedLibraryGl2jniMainC.
+compiling gl_code.c failed.
+C:\HelloGL2\app\src\main\jni\gl_code.c:39:6: warning: type specifier missing, defaults to 'int' [-Wimplicit-int]
+auto gVertexShader =
+~~~~ ^
+C:\HelloGL2\app\src\main\jni\gl_code.c:39:6: error: illegal storage class on file-scoped variable
+C:\HelloGL2\app\src\main\jni\gl_code.c:45:6: warning: type specifier missing, defaults to 'int' [-Wimplicit-int]
+auto gFragmentShader =
+~~~~ ^
+C:\HelloGL2\app\src\main\jni\gl_code.c:45:6: error: illegal storage class on file-scoped variable
+C:\HelloGL2\app\src\main\jni\gl_code.c:189:11: warning: initializing 'char *' with an expression of type 'jbyte *' (aka 'signed char *') converts between pointers to integer types with different sign [-Wpointer-sign]
+    char *data = (*env)->GetByteArrayElements(env,arr, 0);
+          ^      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+C:\HelloGL2\app\src\main\jni\gl_code.c:191:59: warning: passing 'char *' to parameter of type 'jbyte *' (aka 'signed char *') converts between pointers to integer types with different sign [-Wpointer-sign]
+    (*env)->ReleaseByteArrayElements(env,(jbyteArray)arr, data, JNI_ABORT);
+                                                          ^~~~
+4 warnings and 2 errors generated.
+
+Finished compileGl2jniArm64-v8aDebugSharedLibraryGl2jniMainC, see full log file:///C:/HelloGL2/app/build/tmp/compileGl2jniArm64-v8aDebugSharedLibraryGl2jniMainC/output.txt.
